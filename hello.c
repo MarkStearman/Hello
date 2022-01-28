@@ -1,10 +1,10 @@
 /**
  * @file    hello.c
  * @author  Mark Stearman
- * @brief 
+ * @brief
  * @version 0.1
  * @date    2022-01-28
- * 
+ *
  */
 
 #include <stdlib.h>
@@ -13,6 +13,7 @@
 int main(int argc, char **argv) {
 
   printf("%s\n%s\n", "Mark Starman","Electrical Enginering");
+  printf("%s\n%s\n", "Tyler Bender", "Computer Engineering");
 
   return 0;
 }
